@@ -1,0 +1,12 @@
+[
+    {
+        "model": "mistral",
+        "api_key": "NULL",
+        "base_url": "http://0.0.0.0:4000"
+    },
+    {
+        "model": "codellama",
+        "api_key": "NULL",
+        "base_url": "http://0.0.0.0:5000"
+    }
+]
